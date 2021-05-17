@@ -1,16 +1,16 @@
 [
     {
-        "id": 2602416298,
+        "id": 2602473481,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2Mjk4",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNDgx",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416298",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416298",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473481",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473481",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:46:24Z",
-        "completed_at": "2021-05-17T15:47:16Z",
+        "started_at": "2021-05-17T15:53:24Z",
+        "completed_at": "2021-05-17T15:54:11Z",
         "name": "tinyxml2 analyze-cxx17 ubuntu-16.04",
         "steps": [
             {
@@ -18,96 +18,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:46:24.000Z",
-                "completed_at": "2021-05-17T15:46:33.000Z"
+                "started_at": "2021-05-17T15:53:24.000Z",
+                "completed_at": "2021-05-17T15:53:26.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:46:33.000Z",
-                "completed_at": "2021-05-17T15:46:37.000Z"
+                "started_at": "2021-05-17T15:53:26.000Z",
+                "completed_at": "2021-05-17T15:53:30.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:46:37.000Z",
-                "completed_at": "2021-05-17T15:46:37.000Z"
+                "started_at": "2021-05-17T15:53:30.000Z",
+                "completed_at": "2021-05-17T15:53:30.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:46:37.000Z",
-                "completed_at": "2021-05-17T15:46:37.000Z"
+                "started_at": "2021-05-17T15:53:30.000Z",
+                "completed_at": "2021-05-17T15:53:30.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:46:37.000Z",
-                "completed_at": "2021-05-17T15:46:37.000Z"
+                "started_at": "2021-05-17T15:53:30.000Z",
+                "completed_at": "2021-05-17T15:53:30.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:46:37.000Z",
-                "completed_at": "2021-05-17T15:46:37.000Z"
+                "started_at": "2021-05-17T15:53:30.000Z",
+                "completed_at": "2021-05-17T15:53:30.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:46:37.000Z",
-                "completed_at": "2021-05-17T15:47:16.000Z"
+                "started_at": "2021-05-17T15:53:30.000Z",
+                "completed_at": "2021-05-17T15:54:11.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:47:16.000Z",
-                "completed_at": "2021-05-17T15:47:16.000Z"
+                "started_at": "2021-05-17T15:54:11.000Z",
+                "completed_at": "2021-05-17T15:54:11.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:47:16.000Z",
-                "completed_at": "2021-05-17T15:47:16.000Z"
+                "started_at": "2021-05-17T15:54:11.000Z",
+                "completed_at": "2021-05-17T15:54:11.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:47:16.000Z",
-                "completed_at": "2021-05-17T15:47:16.000Z"
+                "started_at": "2021-05-17T15:54:11.000Z",
+                "completed_at": "2021-05-17T15:54:11.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416298"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473481"
     },
     {
-        "id": 2602416264,
+        "id": 2602473452,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2MjY0",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNDUy",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416264",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416264",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473452",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473452",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:46:22Z",
-        "completed_at": "2021-05-17T15:47:23Z",
+        "started_at": "2021-05-17T15:53:26Z",
+        "completed_at": "2021-05-17T15:54:22Z",
         "name": "tinyxml2 android-ndk-r17-api-24-arm64-v8a-clang-libcxx14 ubuntu-16.04",
         "steps": [
             {
@@ -115,96 +115,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:46:22.000Z",
-                "completed_at": "2021-05-17T15:46:25.000Z"
+                "started_at": "2021-05-17T15:53:26.000Z",
+                "completed_at": "2021-05-17T15:53:31.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:46:25.000Z",
-                "completed_at": "2021-05-17T15:46:30.000Z"
+                "started_at": "2021-05-17T15:53:31.000Z",
+                "completed_at": "2021-05-17T15:53:36.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:46:30.000Z",
-                "completed_at": "2021-05-17T15:46:31.000Z"
+                "started_at": "2021-05-17T15:53:36.000Z",
+                "completed_at": "2021-05-17T15:53:36.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:46:31.000Z",
-                "completed_at": "2021-05-17T15:46:31.000Z"
+                "started_at": "2021-05-17T15:53:36.000Z",
+                "completed_at": "2021-05-17T15:53:36.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:46:31.000Z",
-                "completed_at": "2021-05-17T15:46:31.000Z"
+                "started_at": "2021-05-17T15:53:36.000Z",
+                "completed_at": "2021-05-17T15:53:36.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:46:31.000Z",
-                "completed_at": "2021-05-17T15:46:31.000Z"
+                "started_at": "2021-05-17T15:53:36.000Z",
+                "completed_at": "2021-05-17T15:53:36.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:46:31.000Z",
-                "completed_at": "2021-05-17T15:47:23.000Z"
+                "started_at": "2021-05-17T15:53:36.000Z",
+                "completed_at": "2021-05-17T15:54:22.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:47:23.000Z",
-                "completed_at": "2021-05-17T15:47:23.000Z"
+                "started_at": "2021-05-17T15:54:22.000Z",
+                "completed_at": "2021-05-17T15:54:22.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:47:23.000Z",
-                "completed_at": "2021-05-17T15:47:23.000Z"
+                "started_at": "2021-05-17T15:54:22.000Z",
+                "completed_at": "2021-05-17T15:54:22.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:47:23.000Z",
-                "completed_at": "2021-05-17T15:47:23.000Z"
+                "started_at": "2021-05-17T15:54:22.000Z",
+                "completed_at": "2021-05-17T15:54:22.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416264"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473452"
     },
     {
-        "id": 2602416126,
+        "id": 2602473322,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2MTI2",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczMzIy",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416126",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416126",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473322",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473322",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:46:24Z",
-        "completed_at": "2021-05-17T15:47:13Z",
+        "started_at": "2021-05-17T15:53:24Z",
+        "completed_at": "2021-05-17T15:53:48Z",
         "name": "tinyxml2 clang-cxx17 ubuntu-16.04",
         "steps": [
             {
@@ -212,96 +212,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:46:24.000Z",
-                "completed_at": "2021-05-17T15:46:51.000Z"
+                "started_at": "2021-05-17T15:53:24.000Z",
+                "completed_at": "2021-05-17T15:53:27.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:46:51.000Z",
-                "completed_at": "2021-05-17T15:46:57.000Z"
+                "started_at": "2021-05-17T15:53:27.000Z",
+                "completed_at": "2021-05-17T15:53:32.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:46:57.000Z",
-                "completed_at": "2021-05-17T15:46:57.000Z"
+                "started_at": "2021-05-17T15:53:32.000Z",
+                "completed_at": "2021-05-17T15:53:32.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:46:57.000Z",
-                "completed_at": "2021-05-17T15:46:57.000Z"
+                "started_at": "2021-05-17T15:53:32.000Z",
+                "completed_at": "2021-05-17T15:53:32.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:46:57.000Z",
-                "completed_at": "2021-05-17T15:46:57.000Z"
+                "started_at": "2021-05-17T15:53:32.000Z",
+                "completed_at": "2021-05-17T15:53:32.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:46:57.000Z",
-                "completed_at": "2021-05-17T15:46:57.000Z"
+                "started_at": "2021-05-17T15:53:32.000Z",
+                "completed_at": "2021-05-17T15:53:32.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:46:57.000Z",
-                "completed_at": "2021-05-17T15:47:13.000Z"
+                "started_at": "2021-05-17T15:53:32.000Z",
+                "completed_at": "2021-05-17T15:53:48.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:47:13.000Z",
-                "completed_at": "2021-05-17T15:47:13.000Z"
+                "started_at": "2021-05-17T15:53:48.000Z",
+                "completed_at": "2021-05-17T15:53:48.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:47:13.000Z",
-                "completed_at": "2021-05-17T15:47:13.000Z"
+                "started_at": "2021-05-17T15:53:48.000Z",
+                "completed_at": "2021-05-17T15:53:48.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:47:13.000Z",
-                "completed_at": "2021-05-17T15:47:13.000Z"
+                "started_at": "2021-05-17T15:53:48.000Z",
+                "completed_at": "2021-05-17T15:53:48.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416126"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473322"
     },
     {
-        "id": 2602416149,
+        "id": 2602473352,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2MTQ5",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczMzUy",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416149",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416149",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473352",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473352",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:46:23Z",
-        "completed_at": "2021-05-17T15:47:11Z",
+        "started_at": "2021-05-17T15:53:24Z",
+        "completed_at": "2021-05-17T15:54:14Z",
         "name": "tinyxml2 gcc-7-cxx17 ubuntu-16.04",
         "steps": [
             {
@@ -309,96 +309,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:46:23.000Z",
-                "completed_at": "2021-05-17T15:46:26.000Z"
+                "started_at": "2021-05-17T15:53:24.000Z",
+                "completed_at": "2021-05-17T15:53:28.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:46:26.000Z",
-                "completed_at": "2021-05-17T15:46:32.000Z"
+                "started_at": "2021-05-17T15:53:28.000Z",
+                "completed_at": "2021-05-17T15:53:33.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:46:32.000Z",
-                "completed_at": "2021-05-17T15:46:32.000Z"
+                "started_at": "2021-05-17T15:53:33.000Z",
+                "completed_at": "2021-05-17T15:53:33.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:46:32.000Z",
-                "completed_at": "2021-05-17T15:46:32.000Z"
+                "started_at": "2021-05-17T15:53:33.000Z",
+                "completed_at": "2021-05-17T15:53:33.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:46:32.000Z",
-                "completed_at": "2021-05-17T15:46:32.000Z"
+                "started_at": "2021-05-17T15:53:33.000Z",
+                "completed_at": "2021-05-17T15:53:33.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:46:32.000Z",
-                "completed_at": "2021-05-17T15:46:32.000Z"
+                "started_at": "2021-05-17T15:53:33.000Z",
+                "completed_at": "2021-05-17T15:53:33.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:46:32.000Z",
-                "completed_at": "2021-05-17T15:47:10.000Z"
+                "started_at": "2021-05-17T15:53:33.000Z",
+                "completed_at": "2021-05-17T15:54:13.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:47:10.000Z",
-                "completed_at": "2021-05-17T15:47:10.000Z"
+                "started_at": "2021-05-17T15:54:13.000Z",
+                "completed_at": "2021-05-17T15:54:13.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:47:10.000Z",
-                "completed_at": "2021-05-17T15:47:11.000Z"
+                "started_at": "2021-05-17T15:54:13.000Z",
+                "completed_at": "2021-05-17T15:54:14.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:47:11.000Z",
-                "completed_at": "2021-05-17T15:47:11.000Z"
+                "started_at": "2021-05-17T15:54:14.000Z",
+                "completed_at": "2021-05-17T15:54:14.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416149"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473352"
     },
     {
-        "id": 2602416184,
+        "id": 2602473399,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2MTg0",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczMzk5",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416184",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416184",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473399",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473399",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:46:23Z",
-        "completed_at": "2021-05-17T15:46:54Z",
+        "started_at": "2021-05-17T15:53:26Z",
+        "completed_at": "2021-05-17T15:54:05Z",
         "name": "tinyxml2 gcc-8-cxx17-fpic ubuntu-18.04",
         "steps": [
             {
@@ -406,96 +406,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:46:23.000Z",
-                "completed_at": "2021-05-17T15:46:25.000Z"
+                "started_at": "2021-05-17T15:53:26.000Z",
+                "completed_at": "2021-05-17T15:53:29.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:46:25.000Z",
-                "completed_at": "2021-05-17T15:46:28.000Z"
+                "started_at": "2021-05-17T15:53:29.000Z",
+                "completed_at": "2021-05-17T15:53:34.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:46:28.000Z",
-                "completed_at": "2021-05-17T15:46:28.000Z"
+                "started_at": "2021-05-17T15:53:34.000Z",
+                "completed_at": "2021-05-17T15:53:34.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:46:28.000Z",
-                "completed_at": "2021-05-17T15:46:28.000Z"
+                "started_at": "2021-05-17T15:53:34.000Z",
+                "completed_at": "2021-05-17T15:53:34.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:46:28.000Z",
-                "completed_at": "2021-05-17T15:46:28.000Z"
+                "started_at": "2021-05-17T15:53:34.000Z",
+                "completed_at": "2021-05-17T15:53:34.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:46:28.000Z",
-                "completed_at": "2021-05-17T15:46:28.000Z"
+                "started_at": "2021-05-17T15:53:34.000Z",
+                "completed_at": "2021-05-17T15:53:34.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:46:28.000Z",
-                "completed_at": "2021-05-17T15:46:54.000Z"
+                "started_at": "2021-05-17T15:53:34.000Z",
+                "completed_at": "2021-05-17T15:54:04.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:46:54.000Z",
-                "completed_at": "2021-05-17T15:46:54.000Z"
+                "started_at": "2021-05-17T15:54:04.000Z",
+                "completed_at": "2021-05-17T15:54:04.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:46:54.000Z",
-                "completed_at": "2021-05-17T15:46:54.000Z"
+                "started_at": "2021-05-17T15:54:04.000Z",
+                "completed_at": "2021-05-17T15:54:05.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:46:54.000Z",
-                "completed_at": "2021-05-17T15:46:54.000Z"
+                "started_at": "2021-05-17T15:54:05.000Z",
+                "completed_at": "2021-05-17T15:54:05.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416184"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473399"
     },
     {
-        "id": 2602416228,
+        "id": 2602473430,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2MjI4",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNDMw",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416228",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416228",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473430",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473430",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:46:24Z",
-        "completed_at": "2021-05-17T15:47:01Z",
+        "started_at": "2021-05-17T15:53:25Z",
+        "completed_at": "2021-05-17T15:53:54Z",
         "name": "tinyxml2 gcc-9-cxx17-fpic ubuntu-20.04",
         "steps": [
             {
@@ -503,96 +503,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:46:24.000Z",
-                "completed_at": "2021-05-17T15:46:27.000Z"
+                "started_at": "2021-05-17T15:53:25.000Z",
+                "completed_at": "2021-05-17T15:53:27.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:46:27.000Z",
-                "completed_at": "2021-05-17T15:46:34.000Z"
+                "started_at": "2021-05-17T15:53:27.000Z",
+                "completed_at": "2021-05-17T15:53:31.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:46:34.000Z",
-                "completed_at": "2021-05-17T15:46:34.000Z"
+                "started_at": "2021-05-17T15:53:31.000Z",
+                "completed_at": "2021-05-17T15:53:31.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:46:34.000Z",
-                "completed_at": "2021-05-17T15:46:34.000Z"
+                "started_at": "2021-05-17T15:53:31.000Z",
+                "completed_at": "2021-05-17T15:53:31.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:46:34.000Z",
-                "completed_at": "2021-05-17T15:46:34.000Z"
+                "started_at": "2021-05-17T15:53:31.000Z",
+                "completed_at": "2021-05-17T15:53:31.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:46:34.000Z",
-                "completed_at": "2021-05-17T15:46:35.000Z"
+                "started_at": "2021-05-17T15:53:31.000Z",
+                "completed_at": "2021-05-17T15:53:31.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:46:35.000Z",
-                "completed_at": "2021-05-17T15:47:01.000Z"
+                "started_at": "2021-05-17T15:53:31.000Z",
+                "completed_at": "2021-05-17T15:53:53.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:47:01.000Z",
-                "completed_at": "2021-05-17T15:47:01.000Z"
+                "started_at": "2021-05-17T15:53:53.000Z",
+                "completed_at": "2021-05-17T15:53:53.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:47:01.000Z",
-                "completed_at": "2021-05-17T15:47:01.000Z"
+                "started_at": "2021-05-17T15:53:53.000Z",
+                "completed_at": "2021-05-17T15:53:54.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:47:01.000Z",
-                "completed_at": "2021-05-17T15:47:01.000Z"
+                "started_at": "2021-05-17T15:53:54.000Z",
+                "completed_at": "2021-05-17T15:53:54.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416228"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473430"
     },
     {
-        "id": 2602416560,
+        "id": 2602473706,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2NTYw",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNzA2",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416560",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416560",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473706",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473706",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:46:28Z",
-        "completed_at": "2021-05-17T15:47:15Z",
+        "started_at": "2021-05-17T15:53:46Z",
+        "completed_at": "2021-05-17T15:55:55Z",
         "name": "tinyxml2 ios-nocodesign-13-2-dep-9-3 macos-10.15",
         "steps": [
             {
@@ -600,96 +600,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:46:28.000Z",
-                "completed_at": "2021-05-17T15:46:31.000Z"
+                "started_at": "2021-05-17T15:53:46.000Z",
+                "completed_at": "2021-05-17T15:54:12.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:46:31.000Z",
-                "completed_at": "2021-05-17T15:46:37.000Z"
+                "started_at": "2021-05-17T15:54:12.000Z",
+                "completed_at": "2021-05-17T15:55:17.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:46:37.000Z",
-                "completed_at": "2021-05-17T15:46:37.000Z"
+                "started_at": "2021-05-17T15:55:17.000Z",
+                "completed_at": "2021-05-17T15:55:18.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:46:37.000Z",
-                "completed_at": "2021-05-17T15:46:37.000Z"
+                "started_at": "2021-05-17T15:55:18.000Z",
+                "completed_at": "2021-05-17T15:55:18.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:46:37.000Z",
-                "completed_at": "2021-05-17T15:46:37.000Z"
+                "started_at": "2021-05-17T15:55:18.000Z",
+                "completed_at": "2021-05-17T15:55:18.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:46:37.000Z",
-                "completed_at": "2021-05-17T15:46:37.000Z"
+                "started_at": "2021-05-17T15:55:18.000Z",
+                "completed_at": "2021-05-17T15:55:18.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:46:37.000Z",
-                "completed_at": "2021-05-17T15:47:14.000Z"
+                "started_at": "2021-05-17T15:55:18.000Z",
+                "completed_at": "2021-05-17T15:55:54.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:47:14.000Z",
-                "completed_at": "2021-05-17T15:47:14.000Z"
+                "started_at": "2021-05-17T15:55:54.000Z",
+                "completed_at": "2021-05-17T15:55:54.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:47:14.000Z",
-                "completed_at": "2021-05-17T15:47:15.000Z"
+                "started_at": "2021-05-17T15:55:54.000Z",
+                "completed_at": "2021-05-17T15:55:54.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:47:15.000Z",
-                "completed_at": "2021-05-17T15:47:15.000Z"
+                "started_at": "2021-05-17T15:55:54.000Z",
+                "completed_at": "2021-05-17T15:55:55.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416560"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473706"
     },
     {
-        "id": 2602416719,
+        "id": 2602473853,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2NzE5",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczODUz",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416719",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416719",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473853",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473853",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:46:25Z",
-        "completed_at": "2021-05-17T15:47:37Z",
+        "started_at": "2021-05-17T15:53:26Z",
+        "completed_at": "2021-05-17T15:54:48Z",
         "name": "tinyxml2 mingw-cxx17 windows-2016",
         "steps": [
             {
@@ -697,96 +697,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:46:25.000Z",
-                "completed_at": "2021-05-17T15:46:27.000Z"
+                "started_at": "2021-05-17T15:53:26.000Z",
+                "completed_at": "2021-05-17T15:53:28.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:46:27.000Z",
-                "completed_at": "2021-05-17T15:46:47.000Z"
+                "started_at": "2021-05-17T15:53:28.000Z",
+                "completed_at": "2021-05-17T15:53:48.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:46:47.000Z",
-                "completed_at": "2021-05-17T15:46:48.000Z"
+                "started_at": "2021-05-17T15:53:48.000Z",
+                "completed_at": "2021-05-17T15:53:48.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 4,
-                "started_at": "2021-05-17T15:46:48.000Z",
-                "completed_at": "2021-05-17T15:46:48.000Z"
+                "started_at": "2021-05-17T15:53:48.000Z",
+                "completed_at": "2021-05-17T15:53:48.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 5,
-                "started_at": "2021-05-17T15:46:48.000Z",
-                "completed_at": "2021-05-17T15:46:48.000Z"
+                "started_at": "2021-05-17T15:53:48.000Z",
+                "completed_at": "2021-05-17T15:53:49.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:46:48.000Z",
-                "completed_at": "2021-05-17T15:46:49.000Z"
+                "started_at": "2021-05-17T15:53:49.000Z",
+                "completed_at": "2021-05-17T15:53:50.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 7,
-                "started_at": "2021-05-17T15:46:49.000Z",
-                "completed_at": "2021-05-17T15:46:49.000Z"
+                "started_at": "2021-05-17T15:53:50.000Z",
+                "completed_at": "2021-05-17T15:53:50.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 8,
-                "started_at": "2021-05-17T15:46:49.000Z",
-                "completed_at": "2021-05-17T15:47:28.000Z"
+                "started_at": "2021-05-17T15:53:50.000Z",
+                "completed_at": "2021-05-17T15:54:39.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:47:28.000Z",
-                "completed_at": "2021-05-17T15:47:37.000Z"
+                "started_at": "2021-05-17T15:54:39.000Z",
+                "completed_at": "2021-05-17T15:54:48.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:47:37.000Z",
-                "completed_at": "2021-05-17T15:47:37.000Z"
+                "started_at": "2021-05-17T15:54:48.000Z",
+                "completed_at": "2021-05-17T15:54:48.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416719"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473853"
     },
     {
-        "id": 2602416740,
+        "id": 2602473871,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2NzQw",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczODcx",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416740",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416740",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473871",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473871",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:47:05Z",
-        "completed_at": "2021-05-17T15:49:42Z",
+        "started_at": "2021-05-17T15:53:25Z",
+        "completed_at": "2021-05-17T15:56:17Z",
         "name": "tinyxml2 msys-cxx17 windows-2016",
         "steps": [
             {
@@ -794,96 +794,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:47:05.000Z",
-                "completed_at": "2021-05-17T15:47:07.000Z"
+                "started_at": "2021-05-17T15:53:25.000Z",
+                "completed_at": "2021-05-17T15:53:27.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:47:07.000Z",
-                "completed_at": "2021-05-17T15:47:27.000Z"
+                "started_at": "2021-05-17T15:53:27.000Z",
+                "completed_at": "2021-05-17T15:53:49.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:47:27.000Z",
-                "completed_at": "2021-05-17T15:47:28.000Z"
+                "started_at": "2021-05-17T15:53:49.000Z",
+                "completed_at": "2021-05-17T15:53:49.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 4,
-                "started_at": "2021-05-17T15:47:28.000Z",
-                "completed_at": "2021-05-17T15:47:28.000Z"
+                "started_at": "2021-05-17T15:53:49.000Z",
+                "completed_at": "2021-05-17T15:53:49.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 5,
-                "started_at": "2021-05-17T15:47:28.000Z",
-                "completed_at": "2021-05-17T15:47:28.000Z"
+                "started_at": "2021-05-17T15:53:49.000Z",
+                "completed_at": "2021-05-17T15:53:50.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:47:28.000Z",
-                "completed_at": "2021-05-17T15:47:29.000Z"
+                "started_at": "2021-05-17T15:53:50.000Z",
+                "completed_at": "2021-05-17T15:53:51.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 7,
-                "started_at": "2021-05-17T15:47:29.000Z",
-                "completed_at": "2021-05-17T15:47:29.000Z"
+                "started_at": "2021-05-17T15:53:51.000Z",
+                "completed_at": "2021-05-17T15:53:51.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 8,
-                "started_at": "2021-05-17T15:47:29.000Z",
-                "completed_at": "2021-05-17T15:49:33.000Z"
+                "started_at": "2021-05-17T15:53:51.000Z",
+                "completed_at": "2021-05-17T15:56:08.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:49:33.000Z",
-                "completed_at": "2021-05-17T15:49:42.000Z"
+                "started_at": "2021-05-17T15:56:08.000Z",
+                "completed_at": "2021-05-17T15:56:17.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:49:42.000Z",
-                "completed_at": "2021-05-17T15:49:42.000Z"
+                "started_at": "2021-05-17T15:56:17.000Z",
+                "completed_at": "2021-05-17T15:56:17.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416740"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473871"
     },
     {
-        "id": 2602416582,
+        "id": 2602473736,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2NTgy",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNzM2",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416582",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416582",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473736",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473736",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:47:23Z",
-        "completed_at": "2021-05-17T15:48:31Z",
+        "started_at": "2021-05-17T15:53:25Z",
+        "completed_at": "2021-05-17T15:54:53Z",
         "name": "tinyxml2 ninja-vs-15-2017-win64-cxx17 windows-2016",
         "steps": [
             {
@@ -891,96 +891,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:47:23.000Z",
-                "completed_at": "2021-05-17T15:47:25.000Z"
+                "started_at": "2021-05-17T15:53:25.000Z",
+                "completed_at": "2021-05-17T15:53:27.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:47:25.000Z",
-                "completed_at": "2021-05-17T15:47:44.000Z"
+                "started_at": "2021-05-17T15:53:27.000Z",
+                "completed_at": "2021-05-17T15:53:49.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:47:44.000Z",
-                "completed_at": "2021-05-17T15:47:44.000Z"
+                "started_at": "2021-05-17T15:53:49.000Z",
+                "completed_at": "2021-05-17T15:53:50.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 4,
-                "started_at": "2021-05-17T15:47:44.000Z",
-                "completed_at": "2021-05-17T15:47:44.000Z"
+                "started_at": "2021-05-17T15:53:50.000Z",
+                "completed_at": "2021-05-17T15:53:50.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 5,
-                "started_at": "2021-05-17T15:47:44.000Z",
-                "completed_at": "2021-05-17T15:47:45.000Z"
+                "started_at": "2021-05-17T15:53:50.000Z",
+                "completed_at": "2021-05-17T15:53:51.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:47:45.000Z",
-                "completed_at": "2021-05-17T15:47:45.000Z"
+                "started_at": "2021-05-17T15:53:51.000Z",
+                "completed_at": "2021-05-17T15:53:51.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 7,
-                "started_at": "2021-05-17T15:47:45.000Z",
-                "completed_at": "2021-05-17T15:47:45.000Z"
+                "started_at": "2021-05-17T15:53:51.000Z",
+                "completed_at": "2021-05-17T15:53:51.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 8,
-                "started_at": "2021-05-17T15:47:45.000Z",
-                "completed_at": "2021-05-17T15:48:23.000Z"
+                "started_at": "2021-05-17T15:53:51.000Z",
+                "completed_at": "2021-05-17T15:54:45.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:48:23.000Z",
-                "completed_at": "2021-05-17T15:48:31.000Z"
+                "started_at": "2021-05-17T15:54:45.000Z",
+                "completed_at": "2021-05-17T15:54:53.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:48:31.000Z",
-                "completed_at": "2021-05-17T15:48:31.000Z"
+                "started_at": "2021-05-17T15:54:53.000Z",
+                "completed_at": "2021-05-17T15:54:53.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416582"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473736"
     },
     {
-        "id": 2602416614,
+        "id": 2602473762,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2NjE0",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNzYy",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416614",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416614",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473762",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473762",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:47:25Z",
-        "completed_at": "2021-05-17T15:48:33Z",
+        "started_at": "2021-05-17T15:54:00Z",
+        "completed_at": "2021-05-17T15:55:28Z",
         "name": "tinyxml2 nmake-vs-15-2017-win64-cxx17 windows-2016",
         "steps": [
             {
@@ -988,96 +988,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:47:25.000Z",
-                "completed_at": "2021-05-17T15:47:27.000Z"
+                "started_at": "2021-05-17T15:54:00.000Z",
+                "completed_at": "2021-05-17T15:54:02.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:47:27.000Z",
-                "completed_at": "2021-05-17T15:47:45.000Z"
+                "started_at": "2021-05-17T15:54:02.000Z",
+                "completed_at": "2021-05-17T15:54:23.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:47:45.000Z",
-                "completed_at": "2021-05-17T15:47:45.000Z"
+                "started_at": "2021-05-17T15:54:23.000Z",
+                "completed_at": "2021-05-17T15:54:24.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 4,
-                "started_at": "2021-05-17T15:47:45.000Z",
-                "completed_at": "2021-05-17T15:47:45.000Z"
+                "started_at": "2021-05-17T15:54:24.000Z",
+                "completed_at": "2021-05-17T15:54:24.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 5,
-                "started_at": "2021-05-17T15:47:45.000Z",
-                "completed_at": "2021-05-17T15:47:46.000Z"
+                "started_at": "2021-05-17T15:54:24.000Z",
+                "completed_at": "2021-05-17T15:54:25.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:47:46.000Z",
-                "completed_at": "2021-05-17T15:47:46.000Z"
+                "started_at": "2021-05-17T15:54:25.000Z",
+                "completed_at": "2021-05-17T15:54:25.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 7,
-                "started_at": "2021-05-17T15:47:46.000Z",
-                "completed_at": "2021-05-17T15:47:46.000Z"
+                "started_at": "2021-05-17T15:54:25.000Z",
+                "completed_at": "2021-05-17T15:54:25.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 8,
-                "started_at": "2021-05-17T15:47:46.000Z",
-                "completed_at": "2021-05-17T15:48:25.000Z"
+                "started_at": "2021-05-17T15:54:25.000Z",
+                "completed_at": "2021-05-17T15:55:19.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:48:25.000Z",
-                "completed_at": "2021-05-17T15:48:33.000Z"
+                "started_at": "2021-05-17T15:55:19.000Z",
+                "completed_at": "2021-05-17T15:55:28.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:48:33.000Z",
-                "completed_at": "2021-05-17T15:48:33.000Z"
+                "started_at": "2021-05-17T15:55:28.000Z",
+                "completed_at": "2021-05-17T15:55:28.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416614"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473762"
     },
     {
-        "id": 2602416461,
+        "id": 2602473634,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2NDYx",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNjM0",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416461",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416461",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473634",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473634",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:47:42Z",
-        "completed_at": "2021-05-17T15:51:29Z",
+        "started_at": "2021-05-17T15:54:16Z",
+        "completed_at": "2021-05-17T15:57:18Z",
         "name": "tinyxml2 osx-10-13-cxx14 macos-10.15",
         "steps": [
             {
@@ -1085,96 +1085,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:47:42.000Z",
-                "completed_at": "2021-05-17T15:48:09.000Z"
+                "started_at": "2021-05-17T15:54:16.000Z",
+                "completed_at": "2021-05-17T15:54:22.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:48:09.000Z",
-                "completed_at": "2021-05-17T15:49:47.000Z"
+                "started_at": "2021-05-17T15:54:22.000Z",
+                "completed_at": "2021-05-17T15:54:36.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:49:47.000Z",
-                "completed_at": "2021-05-17T15:49:47.000Z"
+                "started_at": "2021-05-17T15:54:36.000Z",
+                "completed_at": "2021-05-17T15:54:36.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:49:47.000Z",
-                "completed_at": "2021-05-17T15:49:48.000Z"
+                "started_at": "2021-05-17T15:54:36.000Z",
+                "completed_at": "2021-05-17T15:54:36.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:49:48.000Z",
-                "completed_at": "2021-05-17T15:49:48.000Z"
+                "started_at": "2021-05-17T15:54:36.000Z",
+                "completed_at": "2021-05-17T15:54:36.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:49:48.000Z",
-                "completed_at": "2021-05-17T15:49:48.000Z"
+                "started_at": "2021-05-17T15:54:36.000Z",
+                "completed_at": "2021-05-17T15:54:36.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:49:48.000Z",
-                "completed_at": "2021-05-17T15:51:28.000Z"
+                "started_at": "2021-05-17T15:54:36.000Z",
+                "completed_at": "2021-05-17T15:57:17.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:51:28.000Z",
-                "completed_at": "2021-05-17T15:51:28.000Z"
+                "started_at": "2021-05-17T15:57:17.000Z",
+                "completed_at": "2021-05-17T15:57:17.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:51:28.000Z",
-                "completed_at": "2021-05-17T15:51:29.000Z"
+                "started_at": "2021-05-17T15:57:17.000Z",
+                "completed_at": "2021-05-17T15:57:18.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:51:29.000Z",
-                "completed_at": "2021-05-17T15:51:29.000Z"
+                "started_at": "2021-05-17T15:57:18.000Z",
+                "completed_at": "2021-05-17T15:57:18.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416461"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473634"
     },
     {
-        "id": 2602416435,
+        "id": 2602473597,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2NDM1",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNTk3",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416435",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416435",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473597",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473597",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:47:34Z",
-        "completed_at": "2021-05-17T15:48:17Z",
+        "started_at": "2021-05-17T15:54:24Z",
+        "completed_at": "2021-05-17T15:55:11Z",
         "name": "tinyxml2 osx-10-13-make-cxx14 macos-10.15",
         "steps": [
             {
@@ -1182,96 +1182,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:47:34.000Z",
-                "completed_at": "2021-05-17T15:47:36.000Z"
+                "started_at": "2021-05-17T15:54:24.000Z",
+                "completed_at": "2021-05-17T15:54:27.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:47:36.000Z",
-                "completed_at": "2021-05-17T15:47:43.000Z"
+                "started_at": "2021-05-17T15:54:27.000Z",
+                "completed_at": "2021-05-17T15:54:35.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:47:43.000Z",
-                "completed_at": "2021-05-17T15:47:43.000Z"
+                "started_at": "2021-05-17T15:54:35.000Z",
+                "completed_at": "2021-05-17T15:54:35.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:47:43.000Z",
-                "completed_at": "2021-05-17T15:47:43.000Z"
+                "started_at": "2021-05-17T15:54:35.000Z",
+                "completed_at": "2021-05-17T15:54:35.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:47:43.000Z",
-                "completed_at": "2021-05-17T15:47:43.000Z"
+                "started_at": "2021-05-17T15:54:35.000Z",
+                "completed_at": "2021-05-17T15:54:35.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:47:43.000Z",
-                "completed_at": "2021-05-17T15:47:43.000Z"
+                "started_at": "2021-05-17T15:54:35.000Z",
+                "completed_at": "2021-05-17T15:54:35.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:47:43.000Z",
-                "completed_at": "2021-05-17T15:48:17.000Z"
+                "started_at": "2021-05-17T15:54:35.000Z",
+                "completed_at": "2021-05-17T15:55:10.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:48:17.000Z",
-                "completed_at": "2021-05-17T15:48:17.000Z"
+                "started_at": "2021-05-17T15:55:10.000Z",
+                "completed_at": "2021-05-17T15:55:10.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:48:17.000Z",
-                "completed_at": "2021-05-17T15:48:17.000Z"
+                "started_at": "2021-05-17T15:55:10.000Z",
+                "completed_at": "2021-05-17T15:55:11.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:48:17.000Z",
-                "completed_at": "2021-05-17T15:48:17.000Z"
+                "started_at": "2021-05-17T15:55:11.000Z",
+                "completed_at": "2021-05-17T15:55:11.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416435"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473597"
     },
     {
-        "id": 2602416493,
+        "id": 2602473658,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2NDkz",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNjU4",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416493",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416493",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473658",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473658",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:47:34Z",
-        "completed_at": "2021-05-17T15:49:51Z",
+        "started_at": "2021-05-17T15:54:32Z",
+        "completed_at": "2021-05-17T15:58:53Z",
         "name": "tinyxml2 osx-10-15-dep-10-10-cxx17 macos-10.15",
         "steps": [
             {
@@ -1279,96 +1279,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:47:35.000Z",
-                "completed_at": "2021-05-17T15:47:38.000Z"
+                "started_at": "2021-05-17T15:54:32.000Z",
+                "completed_at": "2021-05-17T15:54:41.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:47:38.000Z",
-                "completed_at": "2021-05-17T15:47:47.000Z"
+                "started_at": "2021-05-17T15:54:41.000Z",
+                "completed_at": "2021-05-17T15:55:10.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:47:47.000Z",
-                "completed_at": "2021-05-17T15:47:47.000Z"
+                "started_at": "2021-05-17T15:55:10.000Z",
+                "completed_at": "2021-05-17T15:55:10.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:47:47.000Z",
-                "completed_at": "2021-05-17T15:47:47.000Z"
+                "started_at": "2021-05-17T15:55:10.000Z",
+                "completed_at": "2021-05-17T15:55:10.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:47:47.000Z",
-                "completed_at": "2021-05-17T15:47:47.000Z"
+                "started_at": "2021-05-17T15:55:10.000Z",
+                "completed_at": "2021-05-17T15:55:10.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:47:47.000Z",
-                "completed_at": "2021-05-17T15:47:47.000Z"
+                "started_at": "2021-05-17T15:55:10.000Z",
+                "completed_at": "2021-05-17T15:55:10.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:47:47.000Z",
-                "completed_at": "2021-05-17T15:49:50.000Z"
+                "started_at": "2021-05-17T15:55:10.000Z",
+                "completed_at": "2021-05-17T15:58:52.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:49:50.000Z",
-                "completed_at": "2021-05-17T15:49:50.000Z"
+                "started_at": "2021-05-17T15:58:52.000Z",
+                "completed_at": "2021-05-17T15:58:52.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:49:50.000Z",
-                "completed_at": "2021-05-17T15:49:51.000Z"
+                "started_at": "2021-05-17T15:58:52.000Z",
+                "completed_at": "2021-05-17T15:58:53.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:49:51.000Z",
-                "completed_at": "2021-05-17T15:49:51.000Z"
+                "started_at": "2021-05-17T15:58:53.000Z",
+                "completed_at": "2021-05-17T15:58:53.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416493"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473658"
     },
     {
-        "id": 2602416523,
+        "id": 2602473684,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2NTIz",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNjg0",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416523",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416523",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473684",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473684",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:48:06Z",
-        "completed_at": "2021-05-17T15:50:03Z",
+        "started_at": "2021-05-17T15:55:15Z",
+        "completed_at": "2021-05-17T16:01:15Z",
         "name": "tinyxml2 osx-11-0-arch-universal2 macos-10.15",
         "steps": [
             {
@@ -1376,96 +1376,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:48:06.000Z",
-                "completed_at": "2021-05-17T15:48:09.000Z"
+                "started_at": "2021-05-17T15:55:16.000Z",
+                "completed_at": "2021-05-17T15:55:30.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:48:09.000Z",
-                "completed_at": "2021-05-17T15:48:16.000Z"
+                "started_at": "2021-05-17T15:55:30.000Z",
+                "completed_at": "2021-05-17T15:56:11.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:48:16.000Z",
-                "completed_at": "2021-05-17T15:48:16.000Z"
+                "started_at": "2021-05-17T15:56:12.000Z",
+                "completed_at": "2021-05-17T15:56:12.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:48:16.000Z",
-                "completed_at": "2021-05-17T15:48:16.000Z"
+                "started_at": "2021-05-17T15:56:12.000Z",
+                "completed_at": "2021-05-17T15:56:13.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:48:16.000Z",
-                "completed_at": "2021-05-17T15:48:16.000Z"
+                "started_at": "2021-05-17T15:56:13.000Z",
+                "completed_at": "2021-05-17T15:56:13.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:48:16.000Z",
-                "completed_at": "2021-05-17T15:48:16.000Z"
+                "started_at": "2021-05-17T15:56:13.000Z",
+                "completed_at": "2021-05-17T15:56:13.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:48:16.000Z",
-                "completed_at": "2021-05-17T15:50:02.000Z"
+                "started_at": "2021-05-17T15:56:13.000Z",
+                "completed_at": "2021-05-17T16:01:14.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:50:02.000Z",
-                "completed_at": "2021-05-17T15:50:02.000Z"
+                "started_at": "2021-05-17T16:01:14.000Z",
+                "completed_at": "2021-05-17T16:01:14.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:50:02.000Z",
-                "completed_at": "2021-05-17T15:50:02.000Z"
+                "started_at": "2021-05-17T16:01:14.000Z",
+                "completed_at": "2021-05-17T16:01:15.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:50:02.000Z",
-                "completed_at": "2021-05-17T15:50:03.000Z"
+                "started_at": "2021-05-17T16:01:15.000Z",
+                "completed_at": "2021-05-17T16:01:15.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416523"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473684"
     },
     {
-        "id": 2602416328,
+        "id": 2602473510,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2MzI4",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNTEw",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416328",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416328",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473510",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473510",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:47:35Z",
-        "completed_at": "2021-05-17T15:48:15Z",
+        "started_at": "2021-05-17T15:54:32Z",
+        "completed_at": "2021-05-17T15:54:55Z",
         "name": "tinyxml2 sanitize-address-cxx17 ubuntu-16.04",
         "steps": [
             {
@@ -1473,96 +1473,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:47:35.000Z",
-                "completed_at": "2021-05-17T15:47:38.000Z"
+                "started_at": "2021-05-17T15:54:32.000Z",
+                "completed_at": "2021-05-17T15:54:34.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:47:38.000Z",
-                "completed_at": "2021-05-17T15:47:55.000Z"
+                "started_at": "2021-05-17T15:54:34.000Z",
+                "completed_at": "2021-05-17T15:54:38.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:47:55.000Z",
-                "completed_at": "2021-05-17T15:47:55.000Z"
+                "started_at": "2021-05-17T15:54:38.000Z",
+                "completed_at": "2021-05-17T15:54:38.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:47:55.000Z",
-                "completed_at": "2021-05-17T15:47:55.000Z"
+                "started_at": "2021-05-17T15:54:38.000Z",
+                "completed_at": "2021-05-17T15:54:38.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:47:55.000Z",
-                "completed_at": "2021-05-17T15:47:55.000Z"
+                "started_at": "2021-05-17T15:54:38.000Z",
+                "completed_at": "2021-05-17T15:54:38.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:47:55.000Z",
-                "completed_at": "2021-05-17T15:47:55.000Z"
+                "started_at": "2021-05-17T15:54:38.000Z",
+                "completed_at": "2021-05-17T15:54:38.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:47:55.000Z",
-                "completed_at": "2021-05-17T15:48:15.000Z"
+                "started_at": "2021-05-17T15:54:38.000Z",
+                "completed_at": "2021-05-17T15:54:54.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:48:15.000Z",
-                "completed_at": "2021-05-17T15:48:15.000Z"
+                "started_at": "2021-05-17T15:54:54.000Z",
+                "completed_at": "2021-05-17T15:54:54.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:48:15.000Z",
-                "completed_at": "2021-05-17T15:48:15.000Z"
+                "started_at": "2021-05-17T15:54:54.000Z",
+                "completed_at": "2021-05-17T15:54:55.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:48:15.000Z",
-                "completed_at": "2021-05-17T15:48:15.000Z"
+                "started_at": "2021-05-17T15:54:55.000Z",
+                "completed_at": "2021-05-17T15:54:55.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416328"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473510"
     },
     {
-        "id": 2602416362,
+        "id": 2602473530,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2MzYy",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNTMw",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416362",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416362",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473530",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473530",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:48:27Z",
-        "completed_at": "2021-05-17T15:48:52Z",
+        "started_at": "2021-05-17T15:54:59Z",
+        "completed_at": "2021-05-17T15:55:24Z",
         "name": "tinyxml2 sanitize-leak-cxx17 ubuntu-16.04",
         "steps": [
             {
@@ -1570,96 +1570,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:48:27.000Z",
-                "completed_at": "2021-05-17T15:48:30.000Z"
+                "started_at": "2021-05-17T15:54:59.000Z",
+                "completed_at": "2021-05-17T15:55:02.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:48:30.000Z",
-                "completed_at": "2021-05-17T15:48:34.000Z"
+                "started_at": "2021-05-17T15:55:02.000Z",
+                "completed_at": "2021-05-17T15:55:08.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:48:34.000Z",
-                "completed_at": "2021-05-17T15:48:34.000Z"
+                "started_at": "2021-05-17T15:55:08.000Z",
+                "completed_at": "2021-05-17T15:55:08.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:48:34.000Z",
-                "completed_at": "2021-05-17T15:48:34.000Z"
+                "started_at": "2021-05-17T15:55:08.000Z",
+                "completed_at": "2021-05-17T15:55:08.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:48:34.000Z",
-                "completed_at": "2021-05-17T15:48:34.000Z"
+                "started_at": "2021-05-17T15:55:08.000Z",
+                "completed_at": "2021-05-17T15:55:08.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:48:34.000Z",
-                "completed_at": "2021-05-17T15:48:34.000Z"
+                "started_at": "2021-05-17T15:55:08.000Z",
+                "completed_at": "2021-05-17T15:55:09.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:48:34.000Z",
-                "completed_at": "2021-05-17T15:48:52.000Z"
+                "started_at": "2021-05-17T15:55:09.000Z",
+                "completed_at": "2021-05-17T15:55:24.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:48:52.000Z",
-                "completed_at": "2021-05-17T15:48:52.000Z"
+                "started_at": "2021-05-17T15:55:24.000Z",
+                "completed_at": "2021-05-17T15:55:24.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:48:52.000Z",
-                "completed_at": "2021-05-17T15:48:52.000Z"
+                "started_at": "2021-05-17T15:55:24.000Z",
+                "completed_at": "2021-05-17T15:55:24.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:48:52.000Z",
-                "completed_at": "2021-05-17T15:48:52.000Z"
+                "started_at": "2021-05-17T15:55:24.000Z",
+                "completed_at": "2021-05-17T15:55:24.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416362"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473530"
     },
     {
-        "id": 2602416400,
+        "id": 2602473571,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2NDAw",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNTcx",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416400",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416400",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473571",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473571",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:48:27Z",
-        "completed_at": "2021-05-17T15:49:12Z",
+        "started_at": "2021-05-17T15:55:03Z",
+        "completed_at": "2021-05-17T15:55:27Z",
         "name": "tinyxml2 sanitize-thread-cxx17 ubuntu-16.04",
         "steps": [
             {
@@ -1667,96 +1667,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:48:27.000Z",
-                "completed_at": "2021-05-17T15:48:32.000Z"
+                "started_at": "2021-05-17T15:55:03.000Z",
+                "completed_at": "2021-05-17T15:55:06.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:48:32.000Z",
-                "completed_at": "2021-05-17T15:48:51.000Z"
+                "started_at": "2021-05-17T15:55:06.000Z",
+                "completed_at": "2021-05-17T15:55:10.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:48:51.000Z",
-                "completed_at": "2021-05-17T15:48:51.000Z"
+                "started_at": "2021-05-17T15:55:10.000Z",
+                "completed_at": "2021-05-17T15:55:10.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2021-05-17T15:48:51.000Z",
-                "completed_at": "2021-05-17T15:48:51.000Z"
+                "started_at": "2021-05-17T15:55:10.000Z",
+                "completed_at": "2021-05-17T15:55:10.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 5,
-                "started_at": "2021-05-17T15:48:51.000Z",
-                "completed_at": "2021-05-17T15:48:51.000Z"
+                "started_at": "2021-05-17T15:55:10.000Z",
+                "completed_at": "2021-05-17T15:55:10.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:48:51.000Z",
-                "completed_at": "2021-05-17T15:48:51.000Z"
+                "started_at": "2021-05-17T15:55:10.000Z",
+                "completed_at": "2021-05-17T15:55:10.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 7,
-                "started_at": "2021-05-17T15:48:51.000Z",
-                "completed_at": "2021-05-17T15:49:12.000Z"
+                "started_at": "2021-05-17T15:55:10.000Z",
+                "completed_at": "2021-05-17T15:55:26.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 8,
-                "started_at": "2021-05-17T15:49:12.000Z",
-                "completed_at": "2021-05-17T15:49:12.000Z"
+                "started_at": "2021-05-17T15:55:26.000Z",
+                "completed_at": "2021-05-17T15:55:26.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:49:12.000Z",
-                "completed_at": "2021-05-17T15:49:12.000Z"
+                "started_at": "2021-05-17T15:55:26.000Z",
+                "completed_at": "2021-05-17T15:55:27.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:49:12.000Z",
-                "completed_at": "2021-05-17T15:49:12.000Z"
+                "started_at": "2021-05-17T15:55:27.000Z",
+                "completed_at": "2021-05-17T15:55:27.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416400"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473571"
     },
     {
-        "id": 2602416692,
+        "id": 2602473827,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2Njky",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczODI3",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416692",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416692",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473827",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473827",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:48:42Z",
-        "completed_at": "2021-05-17T15:51:35Z",
+        "started_at": "2021-05-17T15:55:05Z",
+        "completed_at": "2021-05-17T15:57:58Z",
         "name": "tinyxml2 vs-14-2015-sdk-8-1 windows-2016",
         "steps": [
             {
@@ -1764,96 +1764,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:48:42.000Z",
-                "completed_at": "2021-05-17T15:48:43.000Z"
+                "started_at": "2021-05-17T15:55:05.000Z",
+                "completed_at": "2021-05-17T15:55:07.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:48:43.000Z",
-                "completed_at": "2021-05-17T15:49:05.000Z"
+                "started_at": "2021-05-17T15:55:07.000Z",
+                "completed_at": "2021-05-17T15:55:28.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:49:05.000Z",
-                "completed_at": "2021-05-17T15:49:05.000Z"
+                "started_at": "2021-05-17T15:55:28.000Z",
+                "completed_at": "2021-05-17T15:55:28.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 4,
-                "started_at": "2021-05-17T15:49:05.000Z",
-                "completed_at": "2021-05-17T15:49:05.000Z"
+                "started_at": "2021-05-17T15:55:28.000Z",
+                "completed_at": "2021-05-17T15:55:28.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 5,
-                "started_at": "2021-05-17T15:49:05.000Z",
-                "completed_at": "2021-05-17T15:49:06.000Z"
+                "started_at": "2021-05-17T15:55:28.000Z",
+                "completed_at": "2021-05-17T15:55:29.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:49:06.000Z",
-                "completed_at": "2021-05-17T15:49:06.000Z"
+                "started_at": "2021-05-17T15:55:29.000Z",
+                "completed_at": "2021-05-17T15:55:29.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 7,
-                "started_at": "2021-05-17T15:49:06.000Z",
-                "completed_at": "2021-05-17T15:49:06.000Z"
+                "started_at": "2021-05-17T15:55:29.000Z",
+                "completed_at": "2021-05-17T15:55:29.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 8,
-                "started_at": "2021-05-17T15:49:06.000Z",
-                "completed_at": "2021-05-17T15:51:26.000Z"
+                "started_at": "2021-05-17T15:55:29.000Z",
+                "completed_at": "2021-05-17T15:57:50.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:51:26.000Z",
-                "completed_at": "2021-05-17T15:51:35.000Z"
+                "started_at": "2021-05-17T15:57:50.000Z",
+                "completed_at": "2021-05-17T15:57:58.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:51:35.000Z",
-                "completed_at": "2021-05-17T15:51:35.000Z"
+                "started_at": "2021-05-17T15:57:58.000Z",
+                "completed_at": "2021-05-17T15:57:58.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416692"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473827"
     },
     {
-        "id": 2602416671,
+        "id": 2602473805,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2Njcx",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczODA1",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416671",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416671",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473805",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473805",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:48:45Z",
-        "completed_at": "2021-05-17T15:51:05Z",
+        "started_at": "2021-05-17T15:55:21Z",
+        "completed_at": "2021-05-17T15:58:03Z",
         "name": "tinyxml2 vs-15-2017-win64-cxx17 windows-2016",
         "steps": [
             {
@@ -1861,96 +1861,96 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:48:45.000Z",
-                "completed_at": "2021-05-17T15:48:46.000Z"
+                "started_at": "2021-05-17T15:55:21.000Z",
+                "completed_at": "2021-05-17T15:55:23.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:48:46.000Z",
-                "completed_at": "2021-05-17T15:49:05.000Z"
+                "started_at": "2021-05-17T15:55:23.000Z",
+                "completed_at": "2021-05-17T15:55:45.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:49:05.000Z",
-                "completed_at": "2021-05-17T15:49:05.000Z"
+                "started_at": "2021-05-17T15:55:45.000Z",
+                "completed_at": "2021-05-17T15:55:45.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 4,
-                "started_at": "2021-05-17T15:49:05.000Z",
-                "completed_at": "2021-05-17T15:49:05.000Z"
+                "started_at": "2021-05-17T15:55:45.000Z",
+                "completed_at": "2021-05-17T15:55:45.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 5,
-                "started_at": "2021-05-17T15:49:05.000Z",
-                "completed_at": "2021-05-17T15:49:06.000Z"
+                "started_at": "2021-05-17T15:55:45.000Z",
+                "completed_at": "2021-05-17T15:55:46.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:49:06.000Z",
-                "completed_at": "2021-05-17T15:49:06.000Z"
+                "started_at": "2021-05-17T15:55:46.000Z",
+                "completed_at": "2021-05-17T15:55:47.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 7,
-                "started_at": "2021-05-17T15:49:06.000Z",
-                "completed_at": "2021-05-17T15:49:06.000Z"
+                "started_at": "2021-05-17T15:55:47.000Z",
+                "completed_at": "2021-05-17T15:55:47.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 8,
-                "started_at": "2021-05-17T15:49:06.000Z",
-                "completed_at": "2021-05-17T15:50:57.000Z"
+                "started_at": "2021-05-17T15:55:47.000Z",
+                "completed_at": "2021-05-17T15:57:54.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:50:57.000Z",
-                "completed_at": "2021-05-17T15:51:05.000Z"
+                "started_at": "2021-05-17T15:57:54.000Z",
+                "completed_at": "2021-05-17T15:58:03.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:51:05.000Z",
-                "completed_at": "2021-05-17T15:51:05.000Z"
+                "started_at": "2021-05-17T15:58:03.000Z",
+                "completed_at": "2021-05-17T15:58:03.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416671"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473805"
     },
     {
-        "id": 2602416647,
+        "id": 2602473783,
         "run_id": 850260325,
         "run_url": "https://api.github.com/repos/bazfp/hunter/actions/runs/850260325",
-        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDE2NjQ3",
+        "node_id": "MDg6Q2hlY2tSdW4yNjAyNDczNzgz",
         "head_sha": "984acb8f4267a75c7fcc87803671a42be10565ab",
-        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602416647",
-        "html_url": "https://github.com/bazfp/hunter/runs/2602416647",
+        "url": "https://api.github.com/repos/bazfp/hunter/actions/jobs/2602473783",
+        "html_url": "https://github.com/bazfp/hunter/runs/2602473783",
         "status": "completed",
         "conclusion": "failure",
-        "started_at": "2021-05-17T15:49:01Z",
-        "completed_at": "2021-05-17T15:50:27Z",
+        "started_at": "2021-05-17T15:55:36Z",
+        "completed_at": "2021-05-17T15:57:25Z",
         "name": "tinyxml2 vs-16-2019-win64-cxx17 windows-2019",
         "steps": [
             {
@@ -1958,82 +1958,82 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2021-05-17T15:49:01.000Z",
-                "completed_at": "2021-05-17T15:49:03.000Z"
+                "started_at": "2021-05-17T15:55:36.000Z",
+                "completed_at": "2021-05-17T15:55:40.000Z"
             },
             {
                 "name": "Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2021-05-17T15:49:03.000Z",
-                "completed_at": "2021-05-17T15:49:19.000Z"
+                "started_at": "2021-05-17T15:55:40.000Z",
+                "completed_at": "2021-05-17T15:56:02.000Z"
             },
             {
                 "name": "Set up Python",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 3,
-                "started_at": "2021-05-17T15:49:19.000Z",
-                "completed_at": "2021-05-17T15:49:19.000Z"
+                "started_at": "2021-05-17T15:56:02.000Z",
+                "completed_at": "2021-05-17T15:56:02.000Z"
             },
             {
                 "name": "Set up Python environment variable (Unix)",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 4,
-                "started_at": "2021-05-17T15:49:19.000Z",
-                "completed_at": "2021-05-17T15:49:19.000Z"
+                "started_at": "2021-05-17T15:56:02.000Z",
+                "completed_at": "2021-05-17T15:56:02.000Z"
             },
             {
                 "name": "Set up Python environment variable (Windows)",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 5,
-                "started_at": "2021-05-17T15:49:19.000Z",
-                "completed_at": "2021-05-17T15:49:20.000Z"
+                "started_at": "2021-05-17T15:56:02.000Z",
+                "completed_at": "2021-05-17T15:56:04.000Z"
             },
             {
                 "name": "Extract branch name",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2021-05-17T15:49:20.000Z",
-                "completed_at": "2021-05-17T15:49:20.000Z"
+                "started_at": "2021-05-17T15:56:04.000Z",
+                "completed_at": "2021-05-17T15:56:04.000Z"
             },
             {
                 "name": "Build on Unix",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 7,
-                "started_at": "2021-05-17T15:49:20.000Z",
-                "completed_at": "2021-05-17T15:49:20.000Z"
+                "started_at": "2021-05-17T15:56:04.000Z",
+                "completed_at": "2021-05-17T15:56:04.000Z"
             },
             {
                 "name": "Build on Windows",
                 "status": "completed",
                 "conclusion": "failure",
                 "number": 8,
-                "started_at": "2021-05-17T15:49:20.000Z",
-                "completed_at": "2021-05-17T15:50:24.000Z"
+                "started_at": "2021-05-17T15:56:04.000Z",
+                "completed_at": "2021-05-17T15:57:21.000Z"
             },
             {
                 "name": "Post Git checkout with submodules",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 16,
-                "started_at": "2021-05-17T15:50:24.000Z",
-                "completed_at": "2021-05-17T15:50:27.000Z"
+                "started_at": "2021-05-17T15:57:21.000Z",
+                "completed_at": "2021-05-17T15:57:25.000Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 17,
-                "started_at": "2021-05-17T15:50:27.000Z",
-                "completed_at": "2021-05-17T15:50:27.000Z"
+                "started_at": "2021-05-17T15:57:25.000Z",
+                "completed_at": "2021-05-17T15:57:25.000Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602416647"
+        "check_run_url": "https://api.github.com/repos/bazfp/hunter/check-runs/2602473783"
     }
 ]
